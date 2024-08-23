@@ -1,3 +1,5 @@
+[![Nickname HIlight3R is registred!](https://mynickname.com/img.php?nick=HIlight3R&sert=26&text=t4)](https://mynickname.com/HIlight3R)
+
 ## Stats
 
 <!--START_SECTION:waka-->
