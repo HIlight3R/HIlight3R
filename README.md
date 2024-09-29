@@ -2,6 +2,8 @@
 
 ## Stats
 
+![GitHub User's stars](https://img.shields.io/github/stars/HIlight3R?style=flat&label=GitHub%20Stars)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%205%20mins-blue)
 
