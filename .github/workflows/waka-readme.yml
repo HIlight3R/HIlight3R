@@ -19,4 +19,4 @@ jobs:
           SHOW_PROJECTS: "False" # It will be "True" when I find a way to hide private repos
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHARTS: "False"
+          SHOW_LOC_CHART: "False"
