@@ -2,7 +2,8 @@
 
 ## Stats
 
-![GitHub User's stars](https://img.shields.io/github/stars/HIlight3R?style=flat&label=GitHub%20Stars)
+![Overview](https://raw.githubusercontent.com/HIlight3R/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/HIlight3R/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2054%20mins-blue)
