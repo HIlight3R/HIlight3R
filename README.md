@@ -14,7 +14,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 12.4 kB Used in GitHub's Storage 
+> 📦 12.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 83 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,5 +67,5 @@ Windows                  2 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 17/10/2024 22:57:47 UTC
+ Last Updated on 17/10/2024 23:00:23 UTC
 <!--END_SECTION:waka-->
