@@ -4,9 +4,12 @@ on:
   push:
   schedule:
     - cron: '0 21 * * *' # Run every midnight (UTC+3)
+  workflow_dispatch:
+
 
 jobs:
   update-readme:
+    name: Update README
     runs-on: ubuntu-latest
     steps:
       - name: Update README with WakaTime stats
@@ -14,6 +17,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "Update README [no ci]"
           SYMBOL_VERSION: 2
           SHOW_PROJECTS: "False" # It will be "True" when I find a way to hide private repos
           SHOW_LINES_OF_CODE: "True"
