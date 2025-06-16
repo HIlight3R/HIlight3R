@@ -18,7 +18,7 @@
  > 
 > 🏆 39 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
@@ -61,5 +61,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/06/2025 21:15:33 UTC
+ Last Updated on 16/06/2025 21:16:48 UTC
 <!--END_SECTION:waka-->
